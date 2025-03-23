@@ -1,0 +1,40 @@
+[23-Mar-2025 18:43:39 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/customer/www/quizlight.org/public_html/classes/Autoloader.php' (include_path='.:/usr/local/php82/pear') in /home/customer/www/quizlight.org/public_html/index.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/quizlight.org/public_html/index.php on line 18
+[23-Mar-2025 18:43:41 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/customer/www/quizlight.org/public_html/classes/Autoloader.php' (include_path='.:/usr/local/php82/pear') in /home/customer/www/quizlight.org/public_html/index.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/quizlight.org/public_html/index.php on line 18
+[23-Mar-2025 18:47:07 UTC] PHP Fatal error:  Uncaught Error: Call to private method Config::load() from global scope in /home/customer/www/quizlight.org/public_html/index.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/quizlight.org/public_html/index.php on line 23
+[23-Mar-2025 18:47:09 UTC] PHP Fatal error:  Uncaught Error: Call to private method Config::load() from global scope in /home/customer/www/quizlight.org/public_html/index.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/quizlight.org/public_html/index.php on line 23
+[23-Mar-2025 18:47:12 UTC] PHP Fatal error:  Uncaught Error: Call to private method Config::load() from global scope in /home/customer/www/quizlight.org/public_html/index.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/quizlight.org/public_html/index.php on line 23
+[23-Mar-2025 18:52:06 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/customer/www/quizlight.org/public_html/config.php' (include_path='.:/usr/local/php82/pear') in /home/customer/www/quizlight.org/public_html/index.php:132
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/quizlight.org/public_html/index.php on line 132
+[23-Mar-2025 18:52:08 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/customer/www/quizlight.org/public_html/config.php' (include_path='.:/usr/local/php82/pear') in /home/customer/www/quizlight.org/public_html/index.php:132
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/quizlight.org/public_html/index.php on line 132
+[23-Mar-2025 18:55:08 UTC] PHP Fatal error:  Allowed memory size of 805306368 bytes exhausted (tried to allocate 65536 bytes) in /home/customer/www/quizlight.org/public_html/index.php on line 171
+[23-Mar-2025 18:55:12 UTC] PHP Fatal error:  Allowed memory size of 805306368 bytes exhausted (tried to allocate 65536 bytes) in /home/customer/www/quizlight.org/public_html/index.php on line 171
+[23-Mar-2025 18:57:12 UTC] Calculating leaderboard for date range: 2025-03-17 to 2025-03-23 23:59:59
+[23-Mar-2025 18:57:12 UTC] Calculating leaderboard for date range: 2025-03-10 to 2025-03-16 23:59:59
+[23-Mar-2025 18:57:19 UTC] Calculating leaderboard for date range: 2025-03-17 to 2025-03-23 23:59:59
+[23-Mar-2025 18:57:19 UTC] Calculating leaderboard for date range: 2025-03-10 to 2025-03-16 23:59:59
+[23-Mar-2025 18:57:26 UTC] Calculating leaderboard for date range: 2025-03-17 to 2025-03-23 23:59:59
+[23-Mar-2025 18:57:26 UTC] Calculating leaderboard for date range: 2025-03-10 to 2025-03-16 23:59:59
+[23-Mar-2025 18:57:39 UTC] Calculating leaderboard for date range: 2025-03-17 to 2025-03-23 23:59:59
+[23-Mar-2025 18:57:39 UTC] Calculating leaderboard for date range: 2025-03-10 to 2025-03-16 23:59:59
+[23-Mar-2025 19:04:00 UTC] Calculating leaderboard for date range: 2025-03-17 to 2025-03-23 23:59:59
+[23-Mar-2025 19:04:00 UTC] Calculating leaderboard for date range: 2025-03-10 to 2025-03-16 23:59:59
