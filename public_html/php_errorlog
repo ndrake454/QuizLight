@@ -1,0 +1,14 @@
+[23-Mar-2025 20:35:46 UTC] PHP Fatal error:  Uncaught Error: Cannot call constructor in /home/customer/www/quizlight.org/public_html/app/controllers/AuthController.php:11
+Stack trace:
+#0 /home/customer/www/quizlight.org/public_html/includes/bootstrap.php(94): AuthController->__construct()
+#1 /home/customer/www/quizlight.org/public_html/includes/bootstrap.php(73): Router::executeRoute(Array)
+#2 /home/customer/www/quizlight.org/public_html/index.php(54): Router::dispatch()
+#3 {main}
+  thrown in /home/customer/www/quizlight.org/public_html/app/controllers/AuthController.php on line 11
+[23-Mar-2025 20:35:48 UTC] PHP Fatal error:  Uncaught Error: Cannot call constructor in /home/customer/www/quizlight.org/public_html/app/controllers/AuthController.php:11
+Stack trace:
+#0 /home/customer/www/quizlight.org/public_html/includes/bootstrap.php(94): AuthController->__construct()
+#1 /home/customer/www/quizlight.org/public_html/includes/bootstrap.php(73): Router::executeRoute(Array)
+#2 /home/customer/www/quizlight.org/public_html/index.php(54): Router::dispatch()
+#3 {main}
+  thrown in /home/customer/www/quizlight.org/public_html/app/controllers/AuthController.php on line 11

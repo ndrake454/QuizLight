@@ -1,0 +1,41 @@
+/* assets/css/styles.css */
+
+/* Common styles */
+.card-hover {
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.card-hover:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.1);
+}
+
+.quiz-card {
+    background-color: white;
+    border: 1px solid #f0f0f0;
+}
+
+/* Animations */
+@keyframes fadeIn {
+    from { opacity: 0; }
+    to { opacity: 1; }
+}
+
+.animate-fadeIn {
+    animation: fadeIn 0.5s ease-in-out;
+}
+
+/* Custom form styles */
+.form-input:focus {
+    border-color: #4f46e5;
+    box-shadow: 0 0 0 3px rgba(79, 70, 229, 0.1);
+}
+
+/* Quiz-specific styles */
+.answer-option {
+    transition: all 0.2s ease;
+}
+
+.answer-option:hover {
+    background-color: rgba(79, 70, 229, 0.05);
+}
